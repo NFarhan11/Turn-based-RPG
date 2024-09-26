@@ -1,0 +1,3 @@
+Next:
+- player sprite -> correction for side walk sprite (refer yuotube)
+- create objects on Tiled (trees, house, etc)
